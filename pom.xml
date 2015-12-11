@@ -11,6 +11,7 @@
 
     <modules>
         <module>childModule</module>
+        <module>childModule_2</module>
     </modules>
 
 
